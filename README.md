@@ -1,9 +1,27 @@
 # The Beatles Archive
-_A public archive of music, photos and curiosities of The Beatles_
+_A public archive of music, photos and curiosities about The Beatles_
 
 The Beatles is one of the most memorable bands in music history. They changed pop music forever with their creative approach and daring concepts.
 
-In this repository you can find old pics, links, full albuns or curiosities about the Beatles. Feel free to contribute :)
+In this repository you can find old pics, links, full albuns or curiosities about the Beatles. 
+~(you can find a torrent file to download the whole discography in Downloads)~ 
+
+
+![Alt Text](https://i.pinimg.com/originals/61/b5/87/61b587e5d1b890dfd3a343bdb891b6ec.gif)
+
+
+Feel free to contribute :)
+
+# How can I HELP?
+_pun intended_
+
+
+![Alt Text](https://i.pinimg.com/originals/6b/05/f1/6b05f1f89bbb184c9666fc9c51934201.gif)
+
+
+To contribute you can add more pictures, links, videos, etc. to the files or you can add a brief curiosity here (README.md file).
+
+![Alt Text](https://i.pinimg.com/originals/7a/9e/1d/7a9e1d29c236ef5f5cad51a27d2c27ce.gif)
 
 
 # Did you know?
