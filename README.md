@@ -19,7 +19,7 @@ _pun intended_
 ![Alt Text](https://i.pinimg.com/originals/6b/05/f1/6b05f1f89bbb184c9666fc9c51934201.gif)
 
 
-To contribute you can add more pictures, links, videos, etc. to the files or you can add a brief curiosity here (README.md file).
+To contribute you can add more pictures, links, videos, etc. to the respecetive folders or you can add a brief curiosity here (README.md file).
 
 ![Alt Text](https://i.pinimg.com/originals/7a/9e/1d/7a9e1d29c236ef5f5cad51a27d2c27ce.gif)
 
