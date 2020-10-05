@@ -35,3 +35,5 @@ To contribute you can add more pictures, links, videos, etc. to the respecetive 
 🍓 The Beatles’ first album, Please Please Me, topped the UK charts for thirty weeks before being replaced by With The Beatles, which stayed there for 21 weeks.
 
 🍓 The BBC banned I Am the Walrus because of the reference to ‘knickers’ in the lyrics. The BBC also banned Lucy in the Sky with Diamonds, Fixing a Hole and A Day in the Life because they decided they all referred to drugs.
+
+🍓 David Bowie’s mega-hit Fame was written by Paul McCartney and John Lennon.
