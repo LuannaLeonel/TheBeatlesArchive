@@ -39,3 +39,5 @@ To contribute you can add more pictures, links, videos, etc. to the respecetive 
 🍓 David Bowie’s mega-hit Fame was written by Paul McCartney and John Lennon.
 
 🍓 The Beatles’ first album, Please Please Me, was recorded in less than 13 hours.
+
+🍓 The Beatles got the idea for their name from Buddy Holly and The Crickets
